@@ -4,6 +4,7 @@
 ```bash
 pip install -r requirements.txt
 ```
+Downloading the [weights](https://pan.baidu.com/s/11nYAQO_bouD22rjCpKT32A?pwd=ncju)
 ## Testing
 
 After preparing the code environment and downloading the weights, run the following codes to train and test model.
