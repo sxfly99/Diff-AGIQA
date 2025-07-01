@@ -2,6 +2,17 @@
 [ICME 2025] Official code release of our paper "Text-to-Image Diffusion Models are AI-Generated Image Quality Scorers"
 ## Motivation
 ![image](https://github.com/sxfly99/Diff-AGIQA/blob/main/Figs/Figure2_01.png)
+#### 🧠 1. Rich Prior Knowledge & High-Quality Benchmark
+
+> Pre-trained diffusion models encapsulate rich prior knowledge about both **high-quality images** and **text-image alignment**. This knowledge is derived from carefully curated, large-scale training data and is implicitly encoded through the text-to-image generation pre-training objective.
+
+#### 🎯 2. Natural Alignment with the AGI Domain
+
+> As generative models, they are inherently aligned with the AGI (Artificial General Intelligence) domain, which helps **mitigate the domain gap issue** prevalent in previous methods.
+
+#### 🔗 3. Fine-Grained Multimodal Interaction via U-Net
+
+> The **U-Net architecture**, central to diffusion models, facilitates **multi-scale interaction** between visual and textual features. This design naturally produces multi-modal features with fine-grained interactions during the feature extraction process.
 ## Method
 ![image](https://github.com/sxfly99/Diff-AGIQA/blob/main/Figs/Figure3_01.png)
 
