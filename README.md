@@ -1,9 +1,9 @@
 # Diff-AGIQA
 [ICME 2025] Official code release of our paper "Text-to-Image Diffusion Models are AI-Generated Image Quality Scorers"
 ## Motivation
-<iframe src="https://docs.google.com/viewer?url=https://github.com/your_username/your_repository/raw/branch/path/to/your_pdf.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
+[!image](https://github.com/sxfly99/Diff-AGIQA/blob/main/Figs/Figure2_01.png)
 ## Method
-<iframe src="https://docs.google.com/viewer?url=https://github.com/your_username/your_repository/raw/branch/path/to/your_pdf.pdf&embedded=true" style="width:100%; height:600px;" frameborder="0"></iframe>
+[!image](https://github.com/sxfly99/Diff-AGIQA/blob/main/Figs/Figure3_01.png)
 
 ## News
 📌 **TO DO**
