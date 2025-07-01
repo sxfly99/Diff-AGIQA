@@ -27,6 +27,7 @@
 📌 **TO DO**
 
 ✅ Inference code release
+
 [ ] training code release
 
 ## Environment
