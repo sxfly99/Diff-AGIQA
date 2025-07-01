@@ -21,7 +21,7 @@
 
 #### ⚙️ 2. Feature Integration for Quality Prediction
 
-> Once the model processes this augmented input, a **carefully designed feature selection process** systematically identifies and integrates the most **discriminative features**. This final, integrated feature set is then used to predict the AGI quality score.
+> Once the model processes this augmented input, a **carefully designed feature selection process** systematically integrates the most **discriminative features**. This final, integrated feature set is then used to predict the AGI quality score.
 
 ## News
 📌 **TO DO**
