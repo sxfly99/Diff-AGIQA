@@ -1,5 +1,9 @@
 # Diff-AGIQA
 [ICME 2025] Official code release of our paper "Text-to-Image Diffusion Models are AI-Generated Image Quality Scorers"
+## Environment
+```bash
+pip install -r requirements.txt
+```
 ## Testing
 
 After preparing the code environment and downloading the weights, run the following codes to train and test model.
