@@ -15,6 +15,14 @@
 > The **U-Net architecture**, central to diffusion models, facilitates **multi-scale interaction** between visual and textual features. This design naturally produces multi-modal features with fine-grained interactions during the feature extraction process.
 ## Method
 ![image](https://github.com/sxfly99/Diff-AGIQA/blob/main/Figs/Figure3_01.png)
+💡 1. Generation of Specialized Visual Prompts
+To better leverage the model's pre-trained knowledge, lightweight visual prompters are introduced. Their specific function is to generate two types of crucial guidance cues: 'perception' and 'alignment' prompts.
+
+🖼️ 2. Input Formulation for the Diffusion Model
+These newly generated prompts are then superimposed directly onto the original image. This composite image—combining the source visual with the new prompts—serves as the complete input for the pre-trained Diffusion model.
+
+⚙️ 3. Systematic Feature Integration for Prediction
+Following the model's processing, a carefully designed feature selection process is employed. This process systematically identifies and integrates the most discriminative features, which are then used to predict the final AGI quality score.
 
 ## News
 📌 **TO DO**
